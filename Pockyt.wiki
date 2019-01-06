@@ -1,0 +1,5 @@
+= Pockyt = 
+A terminal based pocket manager and automator.
+{{{bash
+pockyt get -n 5 -f '{link} - {excerpt}' -o readlater.txt
+}}}

@@ -1,0 +1,19 @@
+= Alfred = 
+== Workflows ==
+=== Lastpass ===
+* lp <application name> - lookup. 
+* lpsettimeout <number of seconds> - timeout until logout
+* lplogin - Log in to LastPass
+* lplogout - Log out of LastPass
+* lp Search Lastpass vault for item containing , press return to copy to clipboard.
+* Shift modifier can be used on lp to copy the username.
+
+=== Spotify mini player ===
+* shift + cmd + enter - toggle
+* shift + cmd + ? - current song. 
+
+=== Strong password generator ===
+* sp <number of characters>
+
+
+

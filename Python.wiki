@@ -1,0 +1,7 @@
+= Python =
+== Timing ==
+{{{python
+python -m timeit "for i in range(1000000): '\n the skys awake so im awake
+\t'.upper().strip()"
+}}}
+
